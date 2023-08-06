@@ -1,2 +1,3 @@
-Apenas execute install.sh
-Only use install.sh
+Only execute ylfconsole.py
+
+this tool is only for Kali Linux
