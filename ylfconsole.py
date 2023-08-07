@@ -364,4 +364,4 @@ elif finalInput_coloredColor == '6':
     finaltext_color = 'cyan'
 
 finalInput_colored = f"colored(finaltext, '{finaltext_color}', '', ['bold', 'blink'])"
-input(finalInput_colored)
+input(f"colored(finaltext, '{finaltext_color}', '', ['bold', 'blink'])")
